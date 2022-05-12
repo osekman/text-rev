@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "osekman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osekman/text-rev.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "text-reverse"
+  ],
+  "bugs": {
+    "url": "https://github.com/osekman/text-rev/issues"
+  },
+  "homepage": "https://github.com/osekman/text-rev#readme"
 }
