@@ -1,5 +1,5 @@
 {
-  "name": "text-rev",
+  "name": "text-reverse",
   "version": "1.0.0",
   "description": "text reversion",
   "main": "index.js",
